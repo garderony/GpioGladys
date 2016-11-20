@@ -1,0 +1,12 @@
+{
+  "name": "gpio-gladys",
+  "version": "0.1.0",
+  "description": "This module enable Milight lamp control in Gladys",
+  "keywords": [
+    "gpio",
+    "lamp",
+    "gladys"
+  ],
+  "author": "Yoyo",
+  "license": "CC-BY-NC-SA-3.0"
+}
